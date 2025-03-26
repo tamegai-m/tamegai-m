@@ -1,4 +1,4 @@
-## 📝 My Latest Qiita Article
+## 📘 Qiita記事
 
 [ZephyrでM5Stack ATOM Liteを動かしてみた：環境構築とハマりポイントまとめ](https://qiita.com/tamegai-m/items/581dfbb6c5131f28d8ae)
 
