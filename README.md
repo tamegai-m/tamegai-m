@@ -1,4 +1,7 @@
-## Hi there 👋
+## 📝 My Latest Qiita Article
+
+[ZephyrでM5Stack ATOM Liteを動かしてみた：環境構築とハマりポイントまとめ](https://qiita.com/tamegai-m/items/581dfbb6c5131f28d8ae)
+
 
 <!--
 **tamegai-m/tamegai-m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
